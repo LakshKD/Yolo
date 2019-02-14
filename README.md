@@ -1,2 +1,2 @@
 # Yolo
-Trained on Custom Data
+Training Yolo with Custom Data
